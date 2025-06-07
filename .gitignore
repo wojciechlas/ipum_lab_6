@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+
+# remote DVC repository
+remote_data/
